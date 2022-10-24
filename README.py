@@ -1,5 +1,4 @@
-# Sistema-ProSa-de
-Sistema que ajuda um único usuário a verificar informações sobre 3 doenças que mais afeta o Estado do Maranhão, redirecionando para um site específica de acordo com a cidade escrita no cadastro, com  opções ainda de marcar consulta para o local escolhido. 
+
 import webbrowser
 from time import sleep
 import os
